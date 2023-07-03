@@ -18,9 +18,11 @@ ul {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 90%;
   padding-left: 15px;
   padding-right: 15px;
+  justify-content: center;
+  text-align: center;
 }
 
 .navigation {
@@ -416,6 +418,7 @@ textarea {
   font-size: 36px;
   line-height: 42px;
   text-align: center;
+
   letter-spacing: 0.03em;
   margin-bottom: 50px;
 }
@@ -423,6 +426,7 @@ textarea {
 .team {
   display: inline-flex;
 justify-content: center;
+text-align: center;
 }
 
 .team-member {
