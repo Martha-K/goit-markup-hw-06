@@ -18,7 +18,7 @@ ul {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 1170px;
+  width: 1400px;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -422,12 +422,14 @@ textarea {
 
 .team {
   display: inline-flex;
+  /* text-align: center; */
+justify-content: center;
 }
 
 .team-member {
   margin-bottom: 94px;
   background-color: #f5f4fa;
-  margin-right: 30px;
+  margin-right: 50px;
   text-align: center;
   box-shadow: 5px 5px 5px rgb(110, 110, 110);
   border-radius: 0px 0px 4px 4px;
